@@ -1,2 +1,3 @@
 add dev.txt file
 Creating a new branch is quick & simple.
+from master branch txt
